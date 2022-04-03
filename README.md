@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @censered
+- 👋 Hi, I’m @usernamegeneric
 - 👀 I’m interested in System Lanuages
 - 🌱 I’m currently learning TypeScript
 - 💞️ I’m looking to collaborate on Small Projects
