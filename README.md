@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @usernamegeneric
+- 👋 Hi, I’m @generic-glitch
 - 👀 I’m interested in System Lanuages
 - 🌱 I’m currently learning TypeScript
 - 💞️ I’m looking to collaborate on Small Projects
