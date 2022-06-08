@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @generic-glitch
+- 👋 Hi, I’m supa
 - 👀 I’m interested in System Lanuages
-- 🌱 I’m currently learning TypeScript
+- 🌱 I’m currently learning Godot and Networking with Nakama
 - 💞️ I’m looking to collaborate on Small Projects
+- 💻 I'm current working on [Block Force](https://github.com/generic-glitch/BlockForceRemastered)
 - 📫 How to reach me via Discord & WhatsApp
