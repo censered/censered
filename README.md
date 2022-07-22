@@ -1,6 +1,5 @@
-- 👋 Hi, I’m supa
+- 👋 Hi, I’m a generic glitch
 - 👀 I’m interested in System Lanuages
 - 🌱 I’m currently learning Godot and Networking with Nakama
 - 💞️ I’m looking to collaborate on Small Projects
-- 💻 I'm current working on [Block Force](https://github.com/generic-glitch/BlockForceRemastered), you can join the [Discord](https://discord.gg/mjau2nfBmq) aswell!
 - 📫 How to reach me via Discord & WhatsApp
